@@ -1,3 +1,5 @@
+#include <stdio.h>
+
 #define	HEIGHT	8
 #define	WIDTH	8
 
@@ -11,3 +13,20 @@ int image[HEIGHT][WIDTH] = {
   {  15,  35,  60,  90, 130, 165, 185, 110},
   {    5,  20,  40,  70, 105, 140, 160,  90},
 };
+
+void main() {
+	int result = 0;
+	int cul = 1;
+	int row = 1;
+	for (int i = 0; i < WIDTH; i++) {
+		for (int j = 0; j < HEIGHT; j++) {
+			if (image[i][j] > result) {
+				result = image[i][j];
+				cul = i + 1;
+				row = j + 1;
+			}
+		}
+	}
+	printf("최대 밝기는 %d\n", result);
+	printf("%d행 %d열입니다", cul, row);
+}

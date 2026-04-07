@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\USER\\Documents\\homework\\data-structure-lab-2026-3\\Lec04_Array_Class\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FF9DE923-E1EC-4F90-BDA0-A0AC10CF3C6A}|Polynomial_Class\\Polynomial_Class.vcxproj|C:\\Users\\USER\\Documents\\homework\\data-structure-lab-2026-3\\Lec04_Array_Class\\Polynomial_Class\\Polynomial.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{FF9DE923-E1EC-4F90-BDA0-A0AC10CF3C6A}|Polynomial_Class\\Polynomial_Class.vcxproj|solutionrelative:Polynomial_Class\\Polynomial.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{70C36752-AE30-49DF-9286-5CADC3770927}|Lec04_Array_Class\\Lec04_Array_Class.vcxproj|C:\\Users\\USER\\Documents\\homework\\data-structure-lab-2026-3\\Lec04_Array_Class\\Lec04_Array_Class\\ImageTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{70C36752-AE30-49DF-9286-5CADC3770927}|Lec04_Array_Class\\Lec04_Array_Class.vcxproj|solutionrelative:Lec04_Array_Class\\ImageTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Polynomial.cpp",
-              "DocumentMoniker": "C:\\Users\\USER\\Documents\\homework\\data-structure-lab-2026-3\\Lec04_Array_Class\\Polynomial_Class\\Polynomial.cpp",
-              "RelativeDocumentMoniker": "Polynomial_Class\\Polynomial.cpp",
-              "ToolTip": "C:\\Users\\USER\\Documents\\homework\\data-structure-lab-2026-3\\Lec04_Array_Class\\Polynomial_Class\\Polynomial.cpp",
-              "RelativeToolTip": "Polynomial_Class\\Polynomial.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "ImageTest.cpp",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\homework\\data-structure-lab-2026-3\\Lec04_Array_Class\\Lec04_Array_Class\\ImageTest.cpp",
+              "RelativeDocumentMoniker": "Lec04_Array_Class\\ImageTest.cpp",
+              "ToolTip": "C:\\Users\\USER\\Documents\\homework\\data-structure-lab-2026-3\\Lec04_Array_Class\\Lec04_Array_Class\\ImageTest.cpp",
+              "RelativeToolTip": "Lec04_Array_Class\\ImageTest.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-04-07T10:58:13.454Z",
+              "WhenOpened": "2026-04-07T13:38:15.709Z",
               "EditorCaption": ""
             }
           ]
