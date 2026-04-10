@@ -123,10 +123,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="..\Lec04_Array_Class\ComplexTest.cpp" />
+    <ClCompile Include="ComplexTest.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\Lec04_Array_Class\Complex.h" />
+    <ClInclude Include="Complex.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
